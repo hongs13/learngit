@@ -6,3 +6,5 @@ git has a mutable index called stage
 creating a new branch is very quick And simple
 
 viri
+
+co-operation 1
